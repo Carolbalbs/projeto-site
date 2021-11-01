@@ -22,7 +22,9 @@ main{
 h1{
     color: blueviolet;
 }
+p{
+    text-align: justify;
+}
 img.lado{
-    margin-top: 15px;
-    
+    margin-top: 15px; 
 }
