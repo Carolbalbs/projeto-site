@@ -16,11 +16,14 @@ main{
     margin-top: -7px;
     padding: 20px;
     box-shadow: 3px 3px 5px rgb(0, 0, 0);
-    border-radius: 0px 0px;
+    border-radius: 10px 10px;
 }
 h1{
     color: rgb(105, 50, 156);
 }
 h2{
     color: royalblue;
+}
+img.lado{
+    float: right;
 }
